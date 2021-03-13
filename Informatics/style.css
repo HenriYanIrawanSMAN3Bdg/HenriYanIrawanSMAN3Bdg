@@ -1,19 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-        <meta charset="utf-8">
-		<meta name-"viewport" content="width=device-width, inital-scale=1">
-		<title>mintonmarket</title>
-		<link rel="stylesheet" href="style.css">
-    </head>
-
-<body>
-	<div class="navbar">
-		<ul>
-			<li display: inline-block><a href="index.html">Home</a></li>
-			<li display: inline-block><a href="contact.html">About Me</a></li>
-			<li display: inline-block><a href="shop.html">shop</a></li>
-		</ul>
-	</div>
-
-</html>
+body{
+    background-image: url("https://lh3.googleusercontent.com/proxy/k9biRnsNh3s29b17EF0AVDfSPrypSisbc0sk1ceW5wkNOvBxeDJSkVL0EIWBb2VpQo5vPCPdJRpI8aH-X6AVHrU1TmvXEfFEhR2YYrqu_h_XrrYkcXXnbCzCWsxb0a5KIw=s0-d");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
