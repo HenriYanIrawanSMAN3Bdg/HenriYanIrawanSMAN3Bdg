@@ -1,0 +1,20 @@
+table {
+    table-layout: initial;
+    width: 100%;
+    -o-table-baseline: initial;
+}
+table th td{
+  border: 1px solid black;
+}
+body{
+    background-image: url("https://lh3.googleusercontent.com/proxy/k9biRnsNh3s29b17EF0AVDfSPrypSisbc0sk1ceW5wkNOvBxeDJSkVL0EIWBb2VpQo5vPCPdJRpI8aH-X6AVHrU1TmvXEfFEhR2YYrqu_h_XrrYkcXXnbCzCWsxb0a5KIw=s0-d");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    align-content: center;
+    box-align: center;
+    align-self: center;
+    align-tracks: center;
+    -ms-grid-column-align: center;
+
+}
